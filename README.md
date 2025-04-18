@@ -2,4 +2,4 @@
 Apple official website clone using Figma
 
 copy this link to access figma file
-https://www.figma.com/design/ZOmLHUvyuJNwkdckGha9eF/HCI-experiments?node-id=73-24&t=KPtMQZJvbknp0zZM-1
+https://www.figma.com/community/file/1494979154018853375/official-apple-website-clone
